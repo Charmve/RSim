@@ -5,6 +5,7 @@
 
 ![image](https://github.com/Charmve/RSIM/assets/29084184/e04db905-15cd-48dc-b0ed-6da563815b74)
 
+<img src="src/demo.gif">
 
 <h2 align="center">HIL：最有效的开发和测试</h2>
 
